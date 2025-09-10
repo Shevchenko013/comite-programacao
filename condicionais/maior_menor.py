@@ -4,7 +4,7 @@ número_3 = float(input("Informe o terceiro numero -> "))
 
 if número > número_2 and número > número_3:
     print("O numero", número, "é o maior!")
-elif  número > número_2 and número_2 > número_3:
+elif  número < número_2 and número_2 < número_3:
     print("O numero", número_2, "é o maior!")
 elif número == número_2 == número_3:
     print("Os numeros são iguais")
