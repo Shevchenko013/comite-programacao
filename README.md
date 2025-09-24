@@ -1,1 +1,1 @@
-# comite-programacao
+programação-comitê
